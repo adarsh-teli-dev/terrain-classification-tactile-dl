@@ -1,0 +1,4 @@
+Model,Input,Validation Accuracy,Test Accuracy,Test Accuracy (%)
+SVM - 33 Features,33 engineered features,0.5969,0.5484,54.84
+SVM - 447 Features,414 tactile + 33 engineered,0.7617,0.7608,76.08
+Raw Data CNN,414 raw tactile values,0.6659,0.6363,63.629999999999995
